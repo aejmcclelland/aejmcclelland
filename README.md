@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Andrew
-- 🌱 I’m currently learning Node.js, Express.js and React with a bit of MongoDB!
+- I have an MSc in Software Development (with Commendation) from Queen's University, Belfast
+- I’m currently learning Node.js, Express.js and MongoDB with a bit of React - so basically, I like all things Javascript!
 
 <!---
 aejmcclelland/aejmcclelland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
