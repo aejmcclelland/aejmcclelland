@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew
-- I have an MSc in Software Development (with Commendation) from Queen's University, Belfast
+- MSc in Software Development (with Commendation) from Queen's University, Belfast
 - I’m currently learning Node.js, Express.js and MongoDB with a bit of React - so basically, I like all things Javascript!
 
 <!---
