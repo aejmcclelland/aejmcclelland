@@ -1,11 +1,11 @@
-# Hi, I'm Andrew McClelland! 👋
+# Hi, I'm Andrew McClelland
 
-I am a passionate MSc Software Development graduate form Queen's University, Belfast, driven by a curiosity for technology and a love new technologies.
+I am a passionate MSc Software Development graduate from Queen's University, Belfast, driven by a curiosity for technology and a love of new technologies.
 
 ## 🚀 About Me
 
 - 🔭 I graduated with a Commendation in MSc Software Development in 2023.
-- 📝 I'm continuing my learning mixing my time between Spring Boot and Node for the back end and React(Nextjs) for the front end.
+- 📝 I'm continuing my learning by  mixing my time between Spring Boot and Node for the back end and React(Nextjs) for the front end.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,java,mongodb,nodejs,express,nextjs,react,js,html,css)](https://skillicons.dev)
