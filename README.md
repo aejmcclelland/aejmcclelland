@@ -13,11 +13,11 @@ I am a passionate MSc Software Development graduate from Queen's University, Bel
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-- - 🔭 I’m currently working on a Nextjs app allowing travellers to find the best public tranpsort route when visiting London.
+- 🔭 I’m currently working on a Nextjs app allowing travellers to find the best public tranpsort route when visiting London.
 - 🌱 I’m currently exploring the ins and outs of React with Next for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Node/Express/Nextjs.
-  - Utilising MongoDB for efficient and scalable database management.
+- 🧑🏻‍💻Styling with Tailwind CSS to create modern and responsive user interfaces.
+- 👷🏻‍♂️Building server-side applications with Node/Express/Nextjs.
+- ⌗Utilising MongoDB for efficient and scalable database management.
 
 ## 📬 Get in Touch
 
