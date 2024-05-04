@@ -23,7 +23,10 @@ I am a passionate MSc Software Development graduate from Queen's University, Bel
 
 ## 📬 Get in Touch
 
-- Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aejmcclelland)
+- Connect with me on [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/aejmcclelland"
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
