@@ -13,6 +13,7 @@ I am a passionate MSc Software Development graduate from Queen's University, Bel
 <img src="https://skillicons.dev/icons?i=git,java,mongodb,nodejs,express,nextjs,react,js,html,css"/>
   </a>
 </p>
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
