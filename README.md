@@ -8,8 +8,11 @@ I am a passionate MSc Software Development graduate from Queen's University, Bel
 - 📝 I'm continuing my learning by  mixing my time between Spring Boot and Node for the back end and React(Nextjs) for the front end.
 
 ## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
 [![My Skills](https://skillicons.dev/icons?i=git,java,mongodb,nodejs,express,nextjs,react,js,html,css)](https://skillicons.dev)
-
+  </a>
+</p>
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
