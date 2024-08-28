@@ -5,7 +5,7 @@ I am a passionate MSc Software Development graduate from Queen's University, Bel
 ## 🚀 About Me
 
 - 🔭 I graduated with a Commendation in MSc Software Development in 2023.
-- 📝 I'm continuing my learning by  mixing my time between Spring Boot and Node for the back end and React(Nextjs) for the front end.
+- 📝 I'm continuing my learning by  mixing my time between Spring Boot for the back end and React(Nextjs) for the front end.
 
 ## Tech Stack
 <p align="center">
