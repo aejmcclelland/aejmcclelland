@@ -16,21 +16,14 @@ I am a passionate MSc Software Development graduate from Queen's University, Bel
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-- 🔭 I’m currently working on a Nextjs app allowing travellers to find the best public tranpsort route when visiting London.
-- 🌱 I’m currently exploring the ins and outs of React with Next for dynamic front-end experiences.
-- 🧑🏻‍💻Styling with Tailwind CSS to create modern and responsive user interfaces.
-- 👷🏻‍♂️Building server-side applications with Node/Express/Nextjs.
-- ⌗Utilising MongoDB for efficient and scalable database management.
+- 🚀 Learning Spring Boot aiming to build web apps for use with a Next front end.
 
 ## 📬 Get in Touch
 
 - Connect with me on [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aejmcclelland)
 &nbsp;
 
-
 Thanks for stopping by! 🚀
-
 
 
 <!--
