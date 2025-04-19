@@ -1,6 +1,6 @@
 # Hi, I'm Andrew McClelland
 
-I am a passionate MSc Software Development graduate from Queen's University, Belfast, driven by a curiosity for technology and a love of new technologies.
+I'm an enthusastic MSc Software Development graduate from Queen's University, Belfast, continually trying to improve and learn.
 
 ## 🚀 About Me
 
