@@ -10,7 +10,7 @@ I'm an enthusastic MSc Software Development graduate from Queen's University, Be
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,mongodb,nodejs,express,nextjs,react,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,mongodb,nodejs,express,nextjs,react"/>
   </a>
 </p>
 
